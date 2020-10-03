@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{700D8E42-58DA-4AC6-8EF6-DDB02F070CDC}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="bookApp/Program.cs">
+    <Files>
+      <File FileName="bookApp/Startup.cs" Line="34" Column="49" />
+      <File FileName="bookApp/Program.cs" Line="27" Column="1" />
+      <File FileName="bookApp/appsettings.json" Line="11" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="bookApp" expanded="True">
+            <Node name="bookApp" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.bookApp FirstBuild="True" PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
